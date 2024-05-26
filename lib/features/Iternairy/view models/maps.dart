@@ -135,7 +135,7 @@ class _MapScreenState extends State<MapScreen> {
           'Map Screen',
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
         ),
-        backgroundColor: Colors.grey[500],
+        backgroundColor: const Color.fromARGB(255, 129, 19, 19),
       ),
       backgroundColor: Colors.grey[300],
       body: SafeArea(
